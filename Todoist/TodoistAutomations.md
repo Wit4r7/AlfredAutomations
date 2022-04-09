@@ -14,7 +14,10 @@ To create this workflow.
 ![](Images/AddOneTaskToInbox_1.jpeg)
 
 1. Create a new workflow, which is triggered by a keyword of your choice. You need to make a argument required. 
+
 ![](Images/AddOneTaskToInbox_2.jpeg)
+
 2. Add a action to run an external script (as Python3 is currently not supported in Alfred and MacOS 12.x comes without Python2.7) Past the link to your script.
+
 ![](Images/AddOneTaskToInbox_3.jpeg)
 
