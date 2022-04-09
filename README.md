@@ -1,2 +1,2 @@
 # AlfredAutomations
-Some of my scripts and workflows for the productivity tool Alfred for Mac
+Some of my scripts and workflows for the productivity tool Alfred for MacOS
