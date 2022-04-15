@@ -3,7 +3,8 @@ Some of my scripts and workflows for the productivity tool Alfred for MacOS
 
 <details>
   <summary>Todoist </summary>
-# My Todoist automations I use on a daily basis with Alfred 4 on MacOS
+
+## My Todoist automations I use on a daily basis with Alfred 4 on MacOS
 
 These are simple Python scripts, which I'm using daily. 
 
@@ -12,7 +13,7 @@ You need to install Todoist Python Modul via this command in the commandline / t
 
 To get your API Code go to https://todoist.com/app/settings/integrations and scroll to the end of this site. 
 
-## AddOneTaskToInbox.py
+### AddOneTaskToInbox.py
 I use this as a workflow to add a quick todo to my Inbox no matter if todoist is running or not. I'll trigger it by the keyword "todo:". The input/text is entered as title for the task. No project assigning, due date or labels can be add via this workflow. 
 
 To create this workflow. 
