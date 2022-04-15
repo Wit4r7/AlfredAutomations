@@ -9,6 +9,7 @@ Some of my scripts and workflows for the productivity tool Alfred for MacOS
 These are simple Python scripts, which I'm using daily. 
 
 You need to install Todoist Python Modul via this command in the commandline / terminal 
+
 `pip3 install todoist-api-python`
 
 To get your API Code go to https://todoist.com/app/settings/integrations and scroll to the end of this site. 
