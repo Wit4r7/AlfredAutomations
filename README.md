@@ -51,3 +51,20 @@ To create this workflow.
 4. Play a sound if you like at compeltion
 
 </details>
+
+
+<details>
+  <summary>Google Chrome </summary>
+  
+ # Open Google Chrome profile from Alfred
+ I'm using Chrome as my main browser for work related things. As consultant I'm using a lot of different profiles and I want to open them as quick as possible. 
+ 
+ Therefore I created this small Alfred Workflow which reads all available Google Chrome profiles from the folder and provides a selection of all. The selected one will be opend in a new window. 
+ 
+ I'm not an python expert and I asume that the code is pretty basic. So, I'm also thankfull for any suggestion to improve the code. 
+ 
+**As long as you have not modified your chrome settings folder, this workflow does not need any configuration.**
+
+To trigger the workflow simpy write `chpr`
+ 
+ 
