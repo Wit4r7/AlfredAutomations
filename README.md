@@ -59,7 +59,7 @@ To create this workflow.
  # Open Google Chrome profile from Alfred
  I'm using Chrome as my main browser for work related things. As consultant I'm using a lot of different profiles and I want to open them as quick as possible. 
  
- Therefore I created this small Alfred Workflow using Python 3 (using `json` and `Path package which reads all available Google Chrome profiles from the folder and provides a selection of all. The selected one will be opend in a new window. 
+ Therefore I created this small Alfred Workflow using Python 3 (using `json` and `Path` package which reads all available Google Chrome profiles from the folder and provides a selection of all. The selected one will be opend in a new window. 
  
  I'm not an python expert and I asume that the code is pretty basic. So, I'm also thankfull for any suggestion to improve the code. 
  
