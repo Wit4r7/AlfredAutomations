@@ -66,5 +66,8 @@ To create this workflow.
 **As long as you have not modified your chrome settings folder, this workflow does not need any configuration.**
 
 To trigger the workflow simpy write `chpr`
+![](/GoogleChrome/chpr.jpg)
+
+![](/GoogleChrome/fullWf.jpg)
  
  
